@@ -80,7 +80,7 @@ plt.show()
 ```
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
-
+```
 <br>
 <br>
 <br>
