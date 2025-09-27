@@ -75,13 +75,21 @@ print("Root Mean Square Error = ",rmse)
 <img width="278" height="317" alt="image" src="https://github.com/user-attachments/assets/d9c7456d-ceb2-4069-86f1-f0fd8b2ab567" />
 
 
+
+
 <img width="276" height="32" alt="image" src="https://github.com/user-attachments/assets/99fc805e-ab2c-45f2-a925-f1ea899eef97" />
+
+
 
 
 <img width="352" height="259" alt="image" src="https://github.com/user-attachments/assets/fd274577-3f02-4388-9223-8fdb82410759" />
 
 
+
+
 <img width="356" height="271" alt="image" src="https://github.com/user-attachments/assets/4ba0a26e-f51b-4af8-be16-17a5e08ffd5f" />
+
+
 
 
 <img width="226" height="35" alt="image" src="https://github.com/user-attachments/assets/cb9dffe7-c7fc-40ed-a397-288fdcc6789e" />
